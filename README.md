@@ -3,7 +3,7 @@ This is my android project list for improving my coding skills.
 
 # :ledger: Projects
 
-|Tier-1: Beginner Projects|||
+|**Tier-1: Beginner Projects**|||
 |:--------------:|:---------------:|:--------:|
 |Description Link|Short Description|My Project|
 | [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)                                                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
@@ -41,7 +41,7 @@ This is my android project list for improving my coding skills.
 | [Wind Chill](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Windchill-App.md)                                                              | Calculate the windchill factor from an actual temperature  |[Link](https://github.com/commandiron/Windchill_app_by_command)|
 | [Word Frequency](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Word-Frequency-App.md)                                                     | Calculate word frequency in a block of text                |[Link](https://github.com/commandiron/WordFrequency_app_by_command)|
 | [Weather App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md)                                                               | Get the temperature, weather condition of a city.          |[Link](https://github.com/commandiron/WeatherApp_by_command)|
-|Tier-2: Intermediate Projects|
+|**Tier-2: Intermediate Projects**|
 |Description Link|Short Description|My Project|
 | [Bit Masks](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Bit-Masks-App.md)                                                           | Using Bit Masks for Conditions                             |[Link](https://github.com/commandiron/BitMasks_app_by_command)|
 | [Book Finder App](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md)                                                   | Search for books by multiple criteria                      |[Link](https://github.com/commandiron/BookFinderApp_by_command)|
@@ -76,7 +76,7 @@ This is my android project list for improving my coding skills.
 | [To-Do App](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/To-Do-App.md)                                                                | Manage personal to-do tasks                                |[Link](https://github.com/commandiron/ToDoApp_by_command)|
 | [Typing Practice](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Typing-Practice-App.md)                                               | Typing Practice                                            |[Link](https://github.com/commandiron/TypingPractice_app_by_command)|
 | [Voting App](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Voting-App.md)                                                              | Voting App                                                 |-|
-|Tier-3: Advanced Projects|
+|**Tier-3: Advanced Projects**|
 |Description Link|Short Description|My Project|
 | [Battleship Bot](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md)                                                          | Create a Discord bot that plays Battleship                     |DISCORD APP|
 | [Battleship Game Engine](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md)                                         | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
@@ -98,5 +98,3 @@ This is my android project list for improving my coding skills.
 | [Slack Archiver](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Slack-Archiver.md)                                                          | Archive Slack Messages                                         |-|
 | [Spell-It App](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/SpellIt-App.md)                                                               | A twist on the classic Speak N Spell game                      |-|
 | [Survey App](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Survey-App.md)                                                                 | Define, conduct, and view a survey                             |-|
-
-
