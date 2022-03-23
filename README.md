@@ -5,7 +5,7 @@ This is my android project list for improving my coding skills.
 
 ### Tier-1: Beginner Projects 
 
-|Name|Short Description|Projects|
+|Name|Short Description|My Project⌨️|
 |----|-----------------|--------|
 | [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    |[Link](https://github.com/commandiron/Border_radius_previewer_by_command)|
@@ -45,7 +45,7 @@ This is my android project list for improving my coding skills.
 
 ### Tier-2: Intermediate Projects
 
-|Name|Short Description|Projects|
+|Name|Short Description|My Project⌨️|
 |----|-----------------|--------|
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                             |[Link](https://github.com/commandiron/BitMasks_app_by_command)|
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria                      |[Link](https://github.com/commandiron/BookFinderApp_by_command)|
@@ -83,7 +83,7 @@ This is my android project list for improving my coding skills.
 
 ### Tier-3: Advanced Projects
 
-|Name|Short Description|Projects|
+|Name|Short Description|My Project⌨️|
 |----|-----------------|--------|
 | [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                     |DISCORD APP|
 | [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
