@@ -4,7 +4,7 @@ This is my android project list for improving my coding skills.
 # :ledger: Projects
 
 |**Tier-1: Beginner Projects**|||
-|:--------------:|:---------------:|:--------:|
+|:---------------|:----------------|:--------:|
 |Description Link|Short Description|My Project|
 | [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)                                                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
 | [Border Radius Previewer](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md)                                       | Preview how CSS3 border-radius values affect an element    |[Link](https://github.com/commandiron/Border_radius_previewer_by_command)|
