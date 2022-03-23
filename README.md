@@ -1,5 +1,5 @@
-My android project list for improving my coding skills inspired from florinpop17 App Ideas Collection 
-  * App ideas by florinpop17 - [Link](https://github.com/florinpop17/app-ideas)
+This is my android project list for improving my coding skills. inspired from florinpop17 App Ideas Collection 
+  * Inspired from florinpop17 App Ideas Collection - [Link](https://github.com/florinpop17/app-ideas)
 
 # :ledger: Projects
 
