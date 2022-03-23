@@ -83,8 +83,8 @@ This is my android project list for improving my coding skills.
 
 ### Tier-3: Advanced Projects
 
-|Description Link|Short Description|My Project|
-|----------------------------------------------|-----------------|----------|
+|Description Link               |Short Description|My Project|
+|----------------|-----------------|----------|
 | [Battleship Bot](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md)                                                         | Create a Discord bot that plays Battleship                     |DISCORD APP|
 | [Battleship Game Engine](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md)                                         | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
 | [Boole Bots Game](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Boole-Bot-Game.md)                                                         | Battling Bots driven by Boolean algebra                        |[Link](https://github.com/commandiron/BooleBotsGame_app_by_command)|
