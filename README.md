@@ -53,9 +53,9 @@ My android project list for improving my coding skills inspired from florinpop17
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)| Memorize and match hidden images|[Link](https://github.com/commandiron/CardMemoryGame_app_by_command)|
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)| Find a Global Charity to donate to|[Link](https://github.com/commandiron/CharityFinder_app_by_command2)|
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)| Build your own chrome theme extention.|CHROME APP|
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)| Convert one currency to another.|[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3) - COMPOSE|
-| [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  |[Link](https://github.com/commandiron/DrawingApp_by_command)|
-| [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     |-|
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)| Convert one currency to another.|[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3)|
+| [Drawing App](./Projects/2-Intermediate/Drawing-App.md)| Create digital artwork on the web|[Link]                             (https://github.com/commandiron/DrawingApp_by_command)|
+| [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)| Translate sentences into Emoji|-|
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards |[Link](https://github.com/commandiron/FlashCards_app_by_command)|
 | [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            |[Link](https://github.com/commandiron/FlipArt_app_by_command)|
 | [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play           |[Link](https://github.com/commandiron/Gamesuggestion_app_by_command)|
