@@ -86,15 +86,15 @@ This is my android project list for improving my coding skills.
 |**Tier-3: Advanced Projects**|
 |-----------------------------|
 
-|Description Link|Short Description|My Project|
-|:---------------|:----------------|:--------:|
+|Description Link  |Short Description|My Project|
+|:-----------------|:----------------|:--------:|
 | [Battleship Bot](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md)                                                          | Create a Discord bot that plays Battleship                     |DISCORD APP|
 | [Battleship Game Engine](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md)                                         | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
 | [Boole Bots Game](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Boole-Bot-Game.md)                                                         | Battling Bots driven by Boolean algebra                        |[Link](https://github.com/commandiron/BooleBotsGame_app_by_command)|
 | [Calendar](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calendar-App.md)                                                                 | Create your own Calendar                                       |[Link](https://github.com/commandiron/Mycalendar_app_by_command)|
 | [Calorie Counter](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Calorie-Counter-App.md)                                                   | Calorie Counter Nutrition App                                  |[Link](https://github.com/commandiron/CalorieCounter_app_by_command)|
 | [Chat App](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md)                                                                      | Real-time chat interface                                       |[Link](https://github.com/commandiron/ChatApp_by_command)|
-| [Contribution Tracker App      ](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Contribution-Tracker-App.md)                                | Track funds donated to charity                                 |-|
+| [Contribution Tracker App](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Contribution-Tracker-App.md)                                     | Track funds donated to charity                                 |-|
 | [Elevator](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Elevator-App.md)                                                                 | Elevator simulator                                             |-|
 | [Fast Food Simulator](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/FastFood-App.md)                                                        | Fast Food Restaurant Simulator                                 |-|
 | [Instagram Clone](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Instagram-Clone-App.md)                                                   | A clone of Facebook's Instagram app                            |-|
