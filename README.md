@@ -3,7 +3,7 @@ This is my android project list for improving my coding skills.
 
 # :ledger: Projects
 
-Jetpack compose is used.
+*Jetpack compose is used.
 
 
 |**Tier-1: Beginner Projects**|
