@@ -47,16 +47,13 @@ My android project list for improving my coding skills inspired from florinpop17
 
 |Name|Short Description|Projects|
 |----|-----------------|--------|
-| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)| Using Bit Masks for Conditions
-|[Link](https://github.com/commandiron/BitMasks_app_by_command)|
-| [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)| Search for books by multiple criteria
-|[Link](https://github.com/commandiron/BookFinderApp_by_command)|
+| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)| Using Bit Masks for Conditions|[Link](https://github.com/commandiron/BitMasks_app_by_command)|
+| [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)| Search for books by multiple criteria|[Link](https://github.com/commandiron/BookFinderApp_by_command)|
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)| Create a basic calculator cli.|CLI APP|
-| [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)| Memorize and match hidden images
-|[Link](https://github.com/commandiron/CardMemoryGame_app_by_command)|
-| [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                |[Link](https://github.com/commandiron/CharityFinder_app_by_command2)|
-| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             |CHROME APP|
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   |[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3) - COMPOSE|
+| [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)| Memorize and match hidden images|[Link](https://github.com/commandiron/CardMemoryGame_app_by_command)|
+| [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)| Find a Global Charity to donate to|[Link](https://github.com/commandiron/CharityFinder_app_by_command2)|
+| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)| Build your own chrome theme extention.|CHROME APP|
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)| Convert one currency to another.|[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3) - COMPOSE|
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  |[Link](https://github.com/commandiron/DrawingApp_by_command)|
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     |-|
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards |[Link](https://github.com/commandiron/FlashCards_app_by_command)|
