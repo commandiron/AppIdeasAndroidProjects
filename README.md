@@ -5,7 +5,7 @@ My android project list for improving my coding skills inspired from florinpop17
 
 ### Tier-1: Beginner Projects 
 
-|Name|Short Description|Examples|
+|Name|Short Description|Projects|
 |----|-----------------|--------|
 | [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    |[Link](https://github.com/commandiron/Border_radius_previewer_by_command)|
@@ -45,41 +45,44 @@ My android project list for improving my coding skills inspired from florinpop17
 
 ### Tier-2: Intermediate Projects
 
-| Name                                                                              | Short Description                                  | Tier           |My Project|
-| --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- | ----- |
-| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |[Link](https://github.com/commandiron/BitMasks_app_by_command)|
-| [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |[Link](https://github.com/commandiron/BookFinderApp_by_command)|
-| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.                       | 2-Intermediate |CLI APP|
-| [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |[Link](https://github.com/commandiron/CardMemoryGame_app_by_command)|
-| [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |[Link](https://github.com/commandiron/CharityFinder_app_by_command2)|
-| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |CHROME APP|
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   | 2-Intermediate |[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3) - COMPOSE|
-| [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |[Link](https://github.com/commandiron/DrawingApp_by_command)|
-| [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |-|
-| [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |[Link](https://github.com/commandiron/FlashCards_app_by_command)|
-| [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediate |[Link](https://github.com/commandiron/FlipArt_app_by_command)|
-| [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play          | 2-Intermediate |[Link](https://github.com/commandiron/Gamesuggestion_app_by_command)|
-| [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md)                   | A GitHub user search App                           | 2-Intermediate |[Link](https://github.com/commandiron/GitHubProfiles_app_by_command)|
-| [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |[Link](https://github.com/commandiron/HighStrikerGame_app_by_command)|
-| [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md)                        | Image Scanner App                                  | 2-Intermediate |-|
-| [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |-|
-| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |-|
-| [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                  | 2-Intermediate |-|
-| [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |[Link](https://github.com/commandiron/MemeGeneratorApp_by_command)|
-| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediate |-|
-| [Password Generator](./Projects/2-Intermediate/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |[Link](https://github.com/commandiron/PasswordGenerator_app_by_command)|
-| [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |[Link](https://github.com/commandiron/PodcastDirectory_app_by_command)|
-| [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
-| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |-|
-| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
-| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)           | Simple Online Store                                | 2-Intermediate |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
-| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |[Link](https://github.com/commandiron/SportsBracketGenerator_app_by_command)|
-| [String Art](./Projects/2-Intermediate/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |-|
-| [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                  | 2-Intermediate |[Link](https://github.com/commandiron/ThisorThatGame_app_by_command)|
-| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |-|
-| [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |[Link](https://github.com/commandiron/ToDoApp_by_command)|
-| [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |[Link](https://github.com/commandiron/TypingPractice_app_by_command)|
-| [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |-|
+|Name|Short Description|Projects|
+|----|-----------------|--------|
+| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)| Using Bit Masks for Conditions
+|[Link](https://github.com/commandiron/BitMasks_app_by_command)|
+| [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)| Search for books by multiple criteria
+|[Link](https://github.com/commandiron/BookFinderApp_by_command)|
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)| Create a basic calculator cli.|CLI APP|
+| [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)| Memorize and match hidden images
+|[Link](https://github.com/commandiron/CardMemoryGame_app_by_command)|
+| [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                |[Link](https://github.com/commandiron/CharityFinder_app_by_command2)|
+| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             |CHROME APP|
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   |[Link](https://github.com/commandiron/CurrencyConverter_app_by_command3) - COMPOSE|
+| [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  |[Link](https://github.com/commandiron/DrawingApp_by_command)|
+| [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     |-|
+| [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards |[Link](https://github.com/commandiron/FlashCards_app_by_command)|
+| [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            |[Link](https://github.com/commandiron/FlipArt_app_by_command)|
+| [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play           |[Link](https://github.com/commandiron/Gamesuggestion_app_by_command)|
+| [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md)                   | A GitHub user search App                          |[Link](https://github.com/commandiron/GitHubProfiles_app_by_command)|
+| [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game               |[Link](https://github.com/commandiron/HighStrikerGame_app_by_command)|
+| [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md)                        | Image Scanner App                                   |-|
+| [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown |-|
+| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text        |-|
+| [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                |-|
+| [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                             |[Link](https://github.com/commandiron/MemeGeneratorApp_by_command)|
+| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 |-|
+| [Password Generator](./Projects/2-Intermediate/Password-Generator.md)             | Generate random passwords                         |[Link](https://github.com/commandiron/PasswordGenerator_app_by_command)|
+| [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                    |[Link](https://github.com/commandiron/PodcastDirectory_app_by_command)|
+| [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                    |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
+| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       | Test Regular Expressions                          |-|
+| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                    |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
+| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)           | Simple Online Store                                |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
+| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  |[Link](https://github.com/commandiron/SportsBracketGenerator_app_by_command)|
+| [String Art](./Projects/2-Intermediate/String-Art.md)                             | An animation of moving, colored strings            |-|
+| [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                  |[Link](https://github.com/commandiron/ThisorThatGame_app_by_command)|
+| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                              |-|
+| [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        |[Link](https://github.com/commandiron/ToDoApp_by_command)|
+| [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                     |[Link](https://github.com/commandiron/TypingPractice_app_by_command)|
+| [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                          |-|
 
 ### Tier-3: Advanced Projects
 
