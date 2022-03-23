@@ -1,7 +1,8 @@
 # app_ideas_android_projects
 Android projects for improving my coding skills inspired from florinpop17 App Ideas Collection 
+  * App ideas by florinpop17 - [Link](https://github.com/florinpop17/app-ideas)
 
-# :ledger: CommandIron Android Projects (App ideas by florinpop17 - [Link](https://github.com/florinpop17/app-ideas))
+# :ledger: Projects
 
 ### Tier-1: Beginner Projects 
 
