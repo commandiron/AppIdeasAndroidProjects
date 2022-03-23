@@ -7,7 +7,7 @@ This is my android project list for improving my coding skills.
 
 |Description Link|Short Description|My Project|
 |----------------|-----------------|----------|
-| [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
+| [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         |[Link](https://github.com/commandiron/Bin2Dec_by_command)|
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    |[Link](https://github.com/commandiron/Border_radius_previewer_by_command)|
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 |[Link](https://github.com/commandiron/Calculator_by_command)|
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      |[Link](https://github.com/commandiron/Christmas_light_by_command)|
