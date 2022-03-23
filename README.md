@@ -69,11 +69,9 @@ This is my android project list for improving my coding skills.
 | [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)                                                                                              | Generate names using names dataset                         |-|
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md)                                                                                                | Generate random passwords                                  |[Link](https://github.com/commandiron/PasswordGenerator_app_by_command)|
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)                                                                                              | Directory of favorite podcasts                             |[Link](https://github.com/commandiron/PodcastDirectory_app_by_command)|
-| [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          
-| Encode badge info in a QRcode                              |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
-| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       
-| Test Regular Expressions                                   |-|
-| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)
+| [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)                                                                                             | Encode badge info in a QRcode                              |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
+| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)                                                                                          | Test Regular Expressions                                   |-|
+| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)          
 | Record Sales Receipts in a DB                              |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
 | [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)
 | Simple Online Store                                        |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
