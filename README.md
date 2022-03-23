@@ -73,13 +73,13 @@ This is my android project list for improving my coding skills.
 | Encode badge info in a QRcode                              |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
 | [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       
 | Test Regular Expressions                                   |-|
-| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   
+| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)
 | Record Sales Receipts in a DB                              |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
-| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)           
+| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)
 | Simple Online Store                                        |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
-| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) 
+| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md)
 | Generate a sports bracket diagram                          |[Link](https://github.com/commandiron/SportsBracketGenerator_app_by_command)|
-| [String Art](./Projects/2-Intermediate/String-Art.md)                             
+| [String Art](./Projects/2-Intermediate/String-Art.md)
 | An animation of moving, colored strings                    |-|
 | [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                          |[Link](https://github.com/commandiron/ThisorThatGame_app_by_command)|
 | [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                                     |-|
