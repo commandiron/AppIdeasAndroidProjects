@@ -71,43 +71,39 @@ This is my android project list for improving my coding skills.
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)                                                                                              | Directory of favorite podcasts                             |[Link](https://github.com/commandiron/PodcastDirectory_app_by_command)|
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)                                                                                             | Encode badge info in a QRcode                              |[Link](https://github.com/commandiron/QRCodeBadgeGenerator_app_by_command)|
 | [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)                                                                                          | Test Regular Expressions                                   |-|
-| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)          
-| Record Sales Receipts in a DB                              |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
-| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)
-| Simple Online Store                                        |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
-| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md)
-| Generate a sports bracket diagram                          |[Link](https://github.com/commandiron/SportsBracketGenerator_app_by_command)|
-| [String Art](./Projects/2-Intermediate/String-Art.md)
-| An animation of moving, colored strings                    |-|
-| [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                          |[Link](https://github.com/commandiron/ThisorThatGame_app_by_command)|
-| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                                     |-|
-| [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                                |[Link](https://github.com/commandiron/ToDoApp_by_command)|
-| [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                            |[Link](https://github.com/commandiron/TypingPractice_app_by_command)|
-| [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                                 |-|
+| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                                                                                                      | Record Sales Receipts in a DB                              |[Link](https://github.com/commandiron/SalesReciepts_app_by_command)|
+| [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)                                                                                                | Simple Online Store                                        |[Link](https://github.com/commandiron/SimpleOnlineStore_app_by_command)|
+| [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md)                                                                                    | Generate a sports bracket diagram                          |[Link](https://github.com/commandiron/SportsBracketGenerator_app_by_command)|
+| [String Art](./Projects/2-Intermediate/String-Art.md)                                                                                                                  | An animation of moving, colored strings                    |-|
+| [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)                                                                                                    | This or That Game                                          |[Link](https://github.com/commandiron/ThisorThatGame_app_by_command)|
+| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)                                                                                                   | Display Team Timezones                                     |-|
+| [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                                                                                                                  | Manage personal to-do tasks                                |[Link](https://github.com/commandiron/ToDoApp_by_command)|
+| [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)                                                                                                  | Typing Practice                                            |[Link](https://github.com/commandiron/TypingPractice_app_by_command)|
+| [Voting App](./Projects/2-Intermediate/Voting-App.md)                                                                                                                | Voting App                                                 |-|
 
 ### Tier-3: Advanced Projects
 
 |Description Link|Short Description|My Project|
 |----------------|-----------------|----------|
-| [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                     |DISCORD APP|
-| [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
-| [Boole Bots Game](./Projects/3-Advanced/Boole-Bot-Game.md)                    | Battling Bots driven by Boolean algebra                        |[Link](https://github.com/commandiron/BooleBotsGame_app_by_command)|
-| [Calendar](./Projects/1-Beginner/Calendar-App.md)                             | Create your own Calendar                                       |[Link](https://github.com/commandiron/Mycalendar_app_by_command)|
-| [Calorie Counter](./Projects/3-Advanced/Calorie-Counter-App.md)               | Calorie Counter Nutrition App                                  |[Link](https://github.com/commandiron/CalorieCounter_app_by_command)|
-| [Chat App](./Projects/3-Advanced/Chat-App.md)                                 | Real-time chat interface                                       |[Link](https://github.com/commandiron/ChatApp_by_command)|
-| [Contribution Tracker App](./Projects/3-Advanced/Contribution-Tracker-App.md) | Track funds donated to charity                                 |-|
-| [Elevator](./Projects/3-Advanced/Elevator-App.md)                             | Elevator simulator                                             |-|
-| [Fast Food Simulator](./Projects/3-Advanced/FastFood-App.md)                  | Fast Food Restaurant Simulator                                 |-|
-| [Instagram Clone](./Projects/3-Advanced/Instagram-Clone-App.md)               | A clone of Facebook's Instagram app                            |-|
-| [GitHub Timeline](./Projects/3-Advanced/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos                    |-|
-| [Kudos Slackbot](./Projects/3-Advanced/Kudos-Slackbot.md)                     | Give recognition to a deserving peer                           |-|
-| [Movie App](./Projects/3-Advanced/Movie-App.md)                           | Browse, Find Ratings, Check Actors and Find you next movie to watch|-|
-| [MyPodcast Library](./Projects/3-Advanced/MyPodcast-Library-app.md)           | Create a library of favorite podcasts                          |-|
-| [NASA Exoplanet Query](./Projects/3-Advanced/NASA-Exoplanet-Query.md)         | Query NASA's Exoplanet Archive                                 |-|
-| [Shell Game](./Projects/3-Advanced/Shell-Game.md)                             | Animated shell game                                            |-|
-| [Shuffle Deck](./Projects/3-Advanced/Shuffle-Deck-App.md)                     | Evaluate different algorithms for shuffling a card deck        |-|
-| [Slack Archiver](./Projects/3-Advanced/Slack-Archiver.md)                     | Archive Slack Messages                                         |-|
-| [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                      |-|
-| [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                             |-|
+| [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                                                                                                            | Create a Discord bot that plays Battleship                     |DISCORD APP|
+| [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)                                                                                            | Create a callable engine to play the Battleship game           |[Link](https://github.com/commandiron/BattleshipGameEngine_by_command)|
+| [Boole Bots Game](./Projects/3-Advanced/Boole-Bot-Game.md)                                                                                                           | Battling Bots driven by Boolean algebra                        |[Link](https://github.com/commandiron/BooleBotsGame_app_by_command)|
+| [Calendar](./Projects/1-Beginner/Calendar-App.md)                                                                                                                    | Create your own Calendar                                       |[Link](https://github.com/commandiron/Mycalendar_app_by_command)|
+| [Calorie Counter](./Projects/3-Advanced/Calorie-Counter-App.md)                                                                                                      | Calorie Counter Nutrition App                                  |[Link](https://github.com/commandiron/CalorieCounter_app_by_command)|
+| [Chat App](./Projects/3-Advanced/Chat-App.md)                                                                                                                        | Real-time chat interface                                       |[Link](https://github.com/commandiron/ChatApp_by_command)|
+| [Contribution Tracker App](./Projects/3-Advanced/Contribution-Tracker-App.md)                                                                                        | Track funds donated to charity                                 |-|
+| [Elevator](./Projects/3-Advanced/Elevator-App.md)                                                                                                                    | Elevator simulator                                             |-|
+| [Fast Food Simulator](./Projects/3-Advanced/FastFood-App.md)                                                                                                         | Fast Food Restaurant Simulator                                 |-|
+| [Instagram Clone](./Projects/3-Advanced/Instagram-Clone-App.md)                                                                                                      | A clone of Facebook's Instagram app                            |-|
+| [GitHub Timeline](./Projects/3-Advanced/GitHub-Timeline-App.md)                                                                                                       | Generate a timeline of a users GitHub Repos                    |-|
+| [Kudos Slackbot](./Projects/3-Advanced/Kudos-Slackbot.md)                                                                                                            | Give recognition to a deserving peer                           |-|
+| [Movie App](./Projects/3-Advanced/Movie-App.md)                                                                                                                      | Browse, Find Ratings, Check Actors and Find you next movie to watch|-|
+| [MyPodcast Library](./Projects/3-Advanced/MyPodcast-Library-app.md)                                                                                                  | Create a library of favorite podcasts                          |-|
+| [NASA Exoplanet Query](./Projects/3-Advanced/NASA-Exoplanet-Query.md)                                                                                                  | Query NASA's Exoplanet Archive                                 |-|
+| [Shell Game](./Projects/3-Advanced/Shell-Game.md)                                                                                                                    | Animated shell game                                            |-|
+| [Shuffle Deck](./Projects/3-Advanced/Shuffle-Deck-App.md)                                                                                                            | Evaluate different algorithms for shuffling a card deck        |-|
+| [Slack Archiver](./Projects/3-Advanced/Slack-Archiver.md)                                                                                                            | Archive Slack Messages                                         |-|
+| [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                                                                                                                 | A twist on the classic Speak N Spell game                      |-|
+| [Survey App](./Projects/3-Advanced/Survey-App.md)                                                                                                                     | Define, conduct, and view a survey                             |-|
 
 
