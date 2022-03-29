@@ -1,5 +1,5 @@
 This is my android project list for improving my coding skills.
-  * Inspired from florinpop17 App Ideas Collection - [Link](https://github.com/florinpop17/app-ideas)
+  * [Inspired from florinpop17 App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
 # :ledger: Projects
 
