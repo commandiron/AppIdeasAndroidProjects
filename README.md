@@ -3,7 +3,7 @@ This is my android project list for improving my coding skills.
   * This list also shows my development process. 
   * [Inspired from florinpop17 App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
-# :ledger: Projects
+# :ledger: Projects https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 
 *Jetpack compose is used.
 
